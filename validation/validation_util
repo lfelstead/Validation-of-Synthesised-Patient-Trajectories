@@ -1,0 +1,9 @@
+
+
+def formatdata(data, label):
+    X_train, y_train = [], []
+    ids = list(set(data["hadm_id"]))
+    for i in ids:
+        X_train.append(data[data["hadm_id"]==i].loc[:, ~data.columns.isin(['hadm_id', "hour"])].values.tolist())
+        y_train.append([label])
+    return np.array(X_train), np.array(y_train)
