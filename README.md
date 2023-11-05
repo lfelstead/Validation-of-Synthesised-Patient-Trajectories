@@ -10,10 +10,16 @@ My thesis addresses gaps in previous research by focusing on discrete and sparse
 
 ## Models
 TimeGAN: https://github.com/jsyoon0823/TimeGAN
+
 ehrMGAN: https://github.com/jli0117/ehrMGAN
+
 DeepEcho: https://github.com/sdv-dev/DeepEcho
+
 CorGAN: https://github.com/astorfi/cor-gan
+
 PATEGAN: https://github.com/BorealisAI/private-data-generation
+
 DoppelGANger: https://github.com/fjxmlzn/DoppelGANger
+
 
  
