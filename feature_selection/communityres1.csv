@@ -1,0 +1,231 @@
+event,Community Detection (Res 1)
+nitrite Urine,1
+bacteria Urine,1
+phosphate urine Urine,1
+total protein urine Urine,1
+transitional epithelial cells Urine,1
+rbc Urine,1
+bilirubin Urine,1
+yeast Urine,1
+ph Urine,1
+wbc clumps Urine,1
+leukocytes Urine,1
+globulin Blood,1
+rbc clumps Urine,1
+uhold Urine,1
+osmolality urine Urine,1
+chloride urine Urine,1
+urea nitrogen Blood,1
+blood Urine,1
+magnesium urine Urine,1
+bicarbonate urine Urine,1
+sodium urine Urine,1
+granular casts Urine,1
+free kappa Blood,1
+calcium oxalate crystals Urine,1
+urine color Urine,1
+glucose Urine,1
+urobilinogen Urine,1
+wbc Urine,1
+urine mucous Urine,1
+protein/creatinine ratio Urine,1
+urea nitrogen urine Urine,1
+albumin urine Urine,1
+amorphous crystals Urine,1
+length of urine collection Urine,1
+eosinophils Urine,1
+calcium urine Urine,1
+uric acid crystals Urine,1
+hyaline casts Urine,1
+uric acid urine Urine,1
+epithelial cells Urine,1
+ketone Urine,1
+cellular cast Urine,1
+sperm Urine,1
+potassium urine Urine,1
+specific gravity Urine,1
+albumin/creatinine urine Urine,1
+urine appearance Urine,1
+creatinine urine Urine,1
+protein Urine,1
+vitamin b12 Blood,2
+amylase Blood,2
+creatine kinase mb isoenzyme Blood,2
+rdw Blood,2
+bilirubin indirect Blood,2
+h Blood,2
+calculated thyroxine (t4) index Blood,2
+eag Blood,2
+creatine kinase (ck) Blood,2
+alkaline phosphatase Blood,2
+calculated tbg Blood,2
+triglycerides Blood,2
+troponin t Blood,2
+thyroxine (t4) free Blood,2
+calcium total Blood,2
+hepatitis a virus antibody Blood,2
+iron Blood,2
+ammonia Blood,2
+l Blood,2
+thyroid stimulating hormone Blood,2
+bilirubin direct Blood,2
+phenytoin Blood,2
+hemoglobin Blood,2
+bilirubin total Blood,2
+teardrop cells Blood,2
+uptake ratio Blood,2
+osmolality measured Blood,2
+anion gap Blood,2
+free kappa/free lambda ratio Blood,2
+c-reactive protein Blood,2
+ck-mb index Blood,2
+reticulocyte count automated Blood,2
+i Blood,2
+albumin Blood,2
+mcv Blood,2
+alanine aminotransferase (alt) Blood,2
+folate Blood,2
+asparate aminotransferase (ast) Blood,2
+triiodothyronine (t3) Blood,2
+phosphate Blood,2
+parathyroid hormone Blood,2
+estimated gfr (mdrd equation) Blood,2
+% hemoglobin a1c Blood,2
+thyroxine (t4) Blood,2
+lactate dehydrogenase (ld) Blood,2
+free lambda Blood,2
+lipase Blood,2
+cholesterol ratio (total/hdl) Blood,2
+potassium whole blood Blood,3
+lactate Blood,3
+macrocytes Blood,3
+pappenheimer bodies Blood,3
+eosinophils Blood,3
+inpatient hematology/oncology smear Blood,3
+absolute basophil count Blood,3
+hpe7 Blood,3
+monocytes Blood,3
+rdw-sd Blood,3
+atypical lymphocytes Blood,3
+ptt Blood,3
+uric acid Blood,3
+sodium whole blood Blood,3
+microcytes Blood,3
+haptoglobin Blood,3
+inr(pt) Blood,3
+hypochromia Blood,3
+absolute monocyte count Blood,3
+hematocrit calculated Blood,3
+bite cells Blood,3
+polychromasia Blood,3
+absolute lymphocyte count Blood,3
+hepatitis b surface antigen Blood,3
+fibrinogen functional Blood,3
+immature granulocytes Blood,3
+mchc Blood,3
+arch-1 Blood,3
+echinocytes Blood,3
+hiv screen Blood,3
+myelocytes Blood,3
+schistocytes Blood,3
+ovalocytes Blood,3
+lymphocytes Blood,3
+absolute eosinophil count Blood,3
+absolute neutrophil count Blood,3
+anisocytosis Blood,3
+basophils Blood,3
+nucleated red cells Blood,3
+chloride whole blood Blood,3
+free calcium Blood,3
+white blood cells Blood,3
+platelet smear Blood,3
+metamyelocytes Blood,3
+neutrophils Blood,3
+poikilocytosis Blood,3
+bands Blood,3
+pco2 Blood,4
+rheumatoid factor Blood,4
+po2 Blood,4
+vancomycin Blood,4
+calculated total co2 Blood,4
+oxygen saturation Blood,4
+lithium Blood,4
+base excess Blood,4
+hepatitis b virus core antibody Blood,4
+hpe1 Blood,4
+hepatitis b surface antibody Blood,4
+o2 flow Blood,4
+ph Blood,4
+oxygen Blood,4
+methemoglobin Blood,4
+alveolar-arterial gradient Blood,4
+temperature Blood,4
+carboxyhemoglobin Blood,4
+calculated bicarbonate whole blood Blood,4
+magnesium Blood,4
+hepatitis c virus antibody Blood,4
+glucose Blood,4
+required o2 Blood,4
+joint crystals comment Joint Fluid,5
+transferrin Blood,5
+sodium Blood,5
+platelet count Blood,5
+joint crystals birefringence Joint Fluid,5
+total nucleated cells joint Joint Fluid,5
+joint crystals shape Joint Fluid,5
+cyclosporin Blood,5
+ferritin Blood,5
+monocytes Joint Fluid,5
+joint crystals location Joint Fluid,5
+iron binding capacity total Blood,5
+polys Joint Fluid,5
+joint crystals number Joint Fluid,5
+rbc joint fluid Joint Fluid,5
+hpe3 Blood,5
+lymphocytes Joint Fluid,5
+mesothelial cell Ascites,6
+polys Ascites,6
+monocytes Ascites,6
+other Ascites,6
+rbc ascites Ascites,6
+total nucleated cells ascites Ascites,6
+lymphocytes Ascites,6
+eosinophils Ascites,6
+digoxin Blood,7
+glucose pleural Pleural,7
+other cells Blood,7
+luc Blood,7
+lactate dehydrogenase pleural Pleural,7
+pt Blood,7
+total protein pleural Pleural,7
+cholesterol hdl Blood,8
+platelet clumps Blood,8
+cortisol Blood,8
+prostate specific antigen Blood,8
+potassium Blood,8
+bicarbonate Blood,8
+creatinine Blood,9
+sedimentation rate Blood,9
+double stranded dna Blood,9
+anti-nuclear antibody Blood,9
+anticardiolipin antibody igm Blood,9
+anticardiolipin antibody igg Blood,9
+total nucleated cells other Other Body Fluid,10
+macrophage Other Body Fluid,10
+rbc other fluid Other Body Fluid,10
+lymphocytes Other Body Fluid,10
+monos Other Body Fluid,10
+polys Other Body Fluid,10
+ntprobnp Blood,11
+chloride Blood,11
+gentamicin Blood,11
+protein total Blood,11
+large platelets Blood,11
+mch Blood,12
+hpe2 Blood,12
+cholesterol total Blood,12
+cholesterol ldl calculated Blood,13
+renal epithelial cells Urine,13
+red blood cells Blood,13
+hematocrit Blood,14
+pencil cells Blood,14
